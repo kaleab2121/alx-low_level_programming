@@ -1,13 +1,12 @@
 #include <stdio.h>
 
 /**
- * main - Entry
- * 
- * return: Always 0 (success)
+ * main - prints the phrase
+ * Return: 0 if Always exactly,block otherwise
  */
-
-int main(void)
+int  main(void)
 {
-       puts("\"programming is like building a multilingual puzzle");	
-       return (0);
-}        
+	puts("\"Programming is like building a multilingual puzzle");
+	return (0);	
+}	
+      	
