@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
- * main - prints a given phrase
- * Return:Always 0
+ * main - main block
+ * return: 0
  */
 int main(void)
 {
